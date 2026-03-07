@@ -1,6 +1,6 @@
 # Executive Summary
 
-From an analysis of coffee shop sales, queried in Microsoft SQL Server and visualized in Tableau, metrics associated with product information, sales data and employee schedule/performance indicated key findings towards the success of the business. Testing concluded that Monday yielded the highest revenue at almost $1,400; compared to a range of approximately $750 - $1,000 for all other days. Across all days, white mocha, cold mocha, and cappuccino/lemonade were the top selling products. Of the 4 workers employed, for a given week, each earned between $140 and $160 for their work totaling $600 in expenses for labor (deducting from the $5,572 of product sales revenue). Further points of investigate can entail an analysis of inventory cost, utiliites, and other expenses that deduct from the profit margin of the business along with an investigation towards peak sales hours to capitalize on business opportunities. 
+From an analysis of coffee shop sales, queried in Microsoft SQL Server and visualized in Tableau, metrics associated with product information, sales data and employee schedule/performance indicated key findings towards the success of the business. Testing concluded that Monday yielded the highest revenue at almost $1,400; compared to a range of approximately $750 - $1,000 for all other days. Across all days, white mocha, cold mocha, and cappuccino/lemonade were the top selling products. Of the 4 workers employed, for a given week, each earned between $140 and $160 for their work totaling $600 in expenses for labor (deducting from the $5,572 of product sales revenue). Further points of investigate can entail an analysis of inventory cost, utiliites, and other expenses that deduct from the profit margin of the business along with an investigation towards peak sales hours to capitalize on business opportunities. Recommendations include capitalizing on top performing items towards further driving sales via marketing and advertising.
 
 ## Problem
 
@@ -19,3 +19,12 @@ The coffee shop data was consolidated from multiple tables into a single view th
 
 ## Results and Recommendations
 
+In total, sales for the week amounted to $5,572 in revenue; Monday yielded noticeably higher sales totaling almost $1,400 compared to the rest of the week ranging from $750 and $1,000. Of the products sold, white mocha, cold mocha, and cappuccino/lemonade consistently were top performing items for any given day of the week. Of the 4 employees who worked during the examined week, 2 indivduals totaled $160 each for labor cost while the other totaled $140 each; $600 in total for labor cost. Total items sold for each employee ranged from 318 - 374 although this could be the result of compounding factors including peak business time employee influence on sales opportunities.
+
+Recommendations include capitalizing on top performing items towards further driving sales via marketing and advertising. Additional work can be done towards increasing revenue on lower performing days, i.e. examining potential correlations in sales on Monday and applying it to the rest of the week. 
+
+"C:\Users\tcaal\Desktop\Data Science Project Stuff\Coffee\Dashboard.png"
+
+## Next Steps
+
+Additional work would benefit the coffee shop by examining other expenses including inventory supply, utilities, and unspecified costs associated with running a business while also implementing the recommendations specified above. 
