@@ -23,7 +23,8 @@ In total, sales for the week amounted to $5,572 in revenue; Monday yielded notic
 
 Recommendations include capitalizing on top performing items towards further driving sales via marketing and advertising. Additional work can be done towards increasing revenue on lower performing days, i.e. examining potential correlations in sales on Monday and applying it to the rest of the week. 
 
-"C:\Users\tcaal\Desktop\Data Science Project Stuff\Coffee\Dashboard.png"
+<img width="794" height="344" alt="Dashboard" src="https://github.com/user-attachments/assets/f38dbdb6-232e-47c5-8ca3-ee176ab48bd7" />
+Figure 1: Tableau dashboard displaying product sales by week and item name, total labor expenses by employee along with total items sold each, and tree map displaying product sales by item. 
 
 ## Next Steps
 
